@@ -27,6 +27,9 @@ An AI-powered interview preparation platform that analyzes resumes, generates pe
 
 ### ATS Resume Score
 
+<img width="945" height="815" alt="Screenshot 2026-07-12 130709" src="https://github.com/user-attachments/assets/5ae71eb1-d27d-408b-9965-425e015cdb3b" />
+ 
+ 
  
 
 ---
