@@ -18,26 +18,30 @@ An AI-powered interview preparation platform that analyzes resumes, generates pe
 ---
 
 ### Resume Analysis
+<img width="1177" height="516" alt="Screenshot 2026-07-12 122954" src="https://github.com/user-attachments/assets/11d7e7e1-c79b-4969-bb7e-0a0d262e4eba" />
 
 
+<img width="591" height="853" alt="Screenshot 2026-07-12 123059" src="https://github.com/user-attachments/assets/881ee80f-9cf1-4409-8b03-1ea84db49933" />
 
 ---
 
 ### ATS Resume Score
 
-![ATS Score](screenshots/ats_score.png)
+ 
 
 ---
 
 ### Interview Session
 
-![Interview Session](screenshots/interview.png)
+<img width="1200" height="786" alt="Screenshot 2026-07-12 123312" src="https://github.com/user-attachments/assets/33fe5c56-23b4-4d3c-bee5-277a8917391f" />
+ 
 
 ---
 
 ### Performance Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+<img width="1238" height="767" alt="Screenshot 2026-07-12 125252" src="https://github.com/user-attachments/assets/6c5b9274-01ad-4bfc-a6a4-017c5d49cb58" />
+ 
 
 ---
 
