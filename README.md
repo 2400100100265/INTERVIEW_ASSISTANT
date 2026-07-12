@@ -11,8 +11,9 @@ An AI-powered interview preparation platform that analyzes resumes, generates pe
 ## 📸 Application Preview
 
 ### Home Page
+<img width="1247" height="810" alt="Screenshot 2026-07-12 120913" src="https://github.com/user-attachments/assets/ac952f05-62e0-47be-9bed-311662594967" />
 
-![Home Page](screenshots/home.png)
+
 
 ---
 
